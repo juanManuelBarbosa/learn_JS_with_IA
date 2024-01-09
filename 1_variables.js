@@ -122,3 +122,31 @@ tienen un alcance de bloque, no se elevan y no pueden ser reasignadas en bucles 
 En general, se recomienda utilizar  `let`  en lugar de  `var`  para declarar variables en 
 JavaScript, ya que  `let`  proporciona un comportamiento más predecible y evita problemas 
 comunes asociados con el uso de  `var`. */
+
+
+
+
+// prmp: "Dame ejercicios para hacer de variables" 
+
+//Ejercicio de cálculo de promedio: 
+//Consigna: Escribe un programa que solicite al usuario tres notas y calcule el promedio.
+//Luego, muestra el resultado en la consola
+
+let nota1 = parseInt(prompt("ingrese la primer nota"));
+let nota2 = parseInt(prompt("ingrese la segunda nota"));
+let nota3 = parseInt(prompt("ingrese la tercer nota"));
+
+let promedio = (nota1 + nota2 + nota3) / 3; 
+console.log(promedio);
+
+/* Ejercicio de conversión de temperatura: 
+Consigna: Escribe un programa que solicite al usuario una temperatura en grados Celsius
+y la convierta a grados Fahrenheit. Muestra el resultado en la consola.  */
+
+let celsius = prompt("Ingrese la temperatura en grados Celsius:");
+
+celsius = parseFloat(celsius);
+
+let fahrenheit = celsius * 9/5 + 32; //utilizacion de formula matematica 
+
+console.log("La temperatura en grados Fahrenheit es: " + fahrenheit);

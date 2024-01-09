@@ -1,4 +1,4 @@
-(pompt: en formato lista: creame un glosario lo mas detallado posible para poder aprender
+(prompt: en formato lista: creame un glosario lo mas detallado posible para poder aprender
 a programar en el lenguaje de JavaScript desde 0 a nivel profecional)
 
 respuesta: 
@@ -6,9 +6,9 @@ respuesta:
 ¡Claro! Aquí tienes un glosario detallado para aprender a programar en JavaScript desde cero
  hasta un nivel profesional:
 
-1. Variables: Son contenedores que almacenan valores.
+1. Variables: Son contenedores que almacenan valores. (CHEK)
 
-2. Tipos de datos: Incluyen números, cadenas de texto, booleanos, objetos y arreglos.
+2. Tipos de datos: Incluyen números, cadenas de texto, booleanos, objetos y arreglos. (CHECK)
 
 3. Operadores: Permiten realizar operaciones matemáticas y lógicas.
 

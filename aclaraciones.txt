@@ -1,0 +1,20 @@
+en pricipio unas aclaraciones para tener en cuenta: 
+
+1- esto es un experimento para saber en cuanto tiempo y que tan efectivo es el uso de la inteligencia artificial
+ para aprender a programar, aprendiendo casi exclusivamente de la misma sumando alguna que otra documentacion.
+
+2- cuento con un minimo conocimiento sobre los fundamentos de programacion asi que hay cosas en las que 
+voy a avanzar mas rapido.
+
+3- lo primero que hice fue aprender a usar minimamente git y github como para poder ir subiendo mi evolucion
+registrando todo desde el principio.  
+
+4-mi objetivo es por lo menos dedicar 2 horas al dia para estudiar como base pero van a haber dias en los que use 
+mas horas de mi tiempo para estudiar.
+
+5-empezare por el lenguaje de Javascript aclarando que ya adquiri conocimientos basicos de HTML y CSS. 
+
+6-mi objetivo es la creacion de aplicaciones/paginas y un portafolio para poder conseguir trabajo de programador.
+
+7- en la medida de lo posible tambien voy a ingresar los promps realizados a la IA como comentarios para que el 
+proyecto sea mas claro.

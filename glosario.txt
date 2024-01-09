@@ -1,0 +1,51 @@
+(pompt: en formato lista: creame un glosario lo mas detallado posible para poder aprender
+a programar en el lenguaje de JavaScript desde 0 a nivel profecional)
+
+respuesta: 
+
+¡Claro! Aquí tienes un glosario detallado para aprender a programar en JavaScript desde cero
+ hasta un nivel profesional:
+
+1. Variables: Son contenedores que almacenan valores.
+
+2. Tipos de datos: Incluyen números, cadenas de texto, booleanos, objetos y arreglos.
+
+3. Operadores: Permiten realizar operaciones matemáticas y lógicas.
+
+4. Estructuras de control: Incluyen condicionales (if, else if, else) y bucles (for, while)
+para controlar el flujo del programa.
+
+5. Funciones: Bloques de código reutilizable que realizan tareas específicas.
+
+6. Objetos: Representan entidades del mundo real y contienen propiedades y métodos.
+
+7. Arreglos: Colecciones ordenadas de elementos.
+
+8. Eventos: Acciones que ocurren en una página web y desencadenan respuestas en JavaScript.
+
+9. DOM (Document Object Model): Representa la estructura de un documento HTML y permite interactuar con él.
+
+10. AJAX (Asynchronous JavaScript and XML): Permite realizar peticiones asíncronas al servidor
+ y actualizar partes de la página sin recargarla.
+
+11. JSON (JavaScript Object Notation): Formato de intercambio de datos basado en texto que es fácilmente
+legible por humanos y máquinas.
+
+12. Callbacks: Funciones que se pasan como argumentos a otras funciones y se ejecutan después de que se 
+complete una tarea.
+
+13. Promesas: Manejan operaciones asíncronas y facilitan el manejo de errores y el encadenamiento
+de operaciones.
+
+14. ES6 (ECMAScript 6): La versión más reciente de JavaScript que introduce nuevas características y mejoras
+en el lenguaje.
+
+15. Frameworks y bibliotecas: Herramientas como React, Angular o Vue.js que facilitan el desarrollo 
+de aplicaciones web.
+
+Recuerda que este glosario es solo una introducción y hay muchos más conceptos y temas que puedes
+explorar a medida que avanzas en tu aprendizaje.
+
+¡Buena suerte en tu camino para convertirte en un programador profesional de JavaScript!
+
+nota: voy a crear por cada punto un archivo incluyendo minimo 3 ejercicios de cada cosa.

@@ -82,3 +82,24 @@ Estos son solo algunos de los operadores más comunes en JavaScript. Los operado
     } else {
     console.log("Los números son iguales.");
     }
+
+    /*Ejercicio: Validación de contraseña 
+ 
+Consigna: Escribe un programa que solicite al usuario una contraseña y verifique si cumple con los siguientes criterios: 
+- Tiene al menos 8 caracteres de longitud. 
+- Contiene al menos un carácter numérico. 
+- Contiene al menos un carácter en mayúscula. 
+ 
+Muestra el resultado de la validación en la consola. */
+
+let contraseña = prompt("Ingrese una contraseña:");
+
+let longitudValida = contraseña.length >= 8;
+let tieneNumero = /\d/.test(contraseña);
+let tieneMayuscula = /[A-Z]/.test(contraseña);
+
+if (longitudValida && tieneNumero && tieneMayuscula) {
+  console.log("La contraseña es válida.");
+} else {
+  console.log("La contraseña no cumple con los criterios de validación.");
+}

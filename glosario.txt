@@ -10,10 +10,10 @@ respuesta:
 
 2. Tipos de datos: Incluyen números, cadenas de texto, booleanos, objetos y arreglos. (CHECK)
 
-3. Operadores: Permiten realizar operaciones matemáticas y lógicas.
+3. Operadores: Permiten realizar operaciones matemáticas y lógicas. (check)
 
 4. Estructuras de control: Incluyen condicionales (if, else if, else) y bucles (for, while)
-para controlar el flujo del programa.
+para controlar el flujo del programa. #fue separado en 2 partes para mayor legibilidad. (CHECK)
 
 5. Funciones: Bloques de código reutilizable que realizan tareas específicas.
 

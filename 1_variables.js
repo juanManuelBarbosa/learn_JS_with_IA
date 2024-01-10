@@ -13,7 +13,7 @@ const PI = 2.1416; //constante, no puede modificar su valor posteriormente
 tipo y de valor durante la ejecucion del programa. */
 
 let numero = 10; //primera declaracion y asignacion de valor .
-console.log(numero); //imprime: 10
+console.log(numero); //(metodo que sirve para imprimir por consola) imprime: 10
 
 numero = "veinte"; //se asigna otro valor, modificando a su vez el tipo de dato.
 console.log(numero); //imprime: veinte

@@ -15,7 +15,7 @@ respuesta:
 4. Estructuras de control: Incluyen condicionales (if, else if, else) y bucles (for, while)
 para controlar el flujo del programa. #fue separado en 2 partes para mayor legibilidad. (CHECK)
 
-5. Funciones: Bloques de código reutilizable que realizan tareas específicas.
+5. Funciones: Bloques de código reutilizable que realizan tareas específicas. (CHECK)
 
 6. Objetos: Representan entidades del mundo real y contienen propiedades y métodos.
 

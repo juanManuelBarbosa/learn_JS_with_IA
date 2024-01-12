@@ -17,6 +17,9 @@ para controlar el flujo del programa. #fue separado en 2 partes para mayor legib
 
 5. Funciones: Bloques de código reutilizable que realizan tareas específicas. (CHECK)
 
+*5.5 primeros proyectos simples, para reforzar el aprendisaje y forzarme a programar en este punto
+le pedi a la ia que me de algunos proyectos para poder empezar a utilizar lo aprendido hasta ahora.
+
 6. Objetos: Representan entidades del mundo real y contienen propiedades y métodos.
 
 7. Arreglos: Colecciones ordenadas de elementos.

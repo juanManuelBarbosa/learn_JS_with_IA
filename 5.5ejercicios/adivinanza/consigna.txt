@@ -1,0 +1,4 @@
+Crea un juego en el que el programa genera un número aleatorio y el jugador debe adivinarlo.
+Utiliza funciones para generar el número aleatorio, verificar las respuestas del jugador y
+llevar la cuenta de los intentos. Utiliza variables para almacenar el número generado y
+el número de intentos. 

@@ -101,5 +101,11 @@ class Libro =  {
     }
 }
 
-const libro1 = new Libro('"1984"', "George Orwell",1949, "Ciencia ficción" )
+const libro1 = new Libro('"1984"', "George Orwell",1949, "Ciencia ficción" );
 libro1.mostrarInfo(); 
+
+const libro2 = new Libro("Cien años de soledad" , "Gabriel García Márquez", 1967, "Realismo Magico");
+libro2.mostrarInfo();
+
+const libro3 = new Libro("el Gran Gatsby" , "F. Scott Fitzgerald", 1925, "Novela");
+libro3.mostrarInfo();

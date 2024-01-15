@@ -35,7 +35,7 @@ le pedi a la ia que me de algunos proyectos para poder empezar a utilizar lo apr
 legible por humanos y máquinas.
 
 12. Callbacks: Funciones que se pasan como argumentos a otras funciones y se ejecutan después de que se 
-complete una tarea.
+complete una tarea.(CHECK)
 
 13. Promesas: Manejan operaciones asíncronas y facilitan el manejo de errores y el encadenamiento
 de operaciones. (CHECK)

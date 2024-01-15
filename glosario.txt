@@ -17,16 +17,16 @@ para controlar el flujo del programa. #fue separado en 2 partes para mayor legib
 
 5. Funciones: Bloques de código reutilizable que realizan tareas específicas. (CHECK)
 
-6. Eventos: Acciones que ocurren en una página web y desencadenan respuestas en JavaScript.
+6. Eventos: Acciones que ocurren en una página web y desencadenan respuestas en JavaScript. (CHECK)
 
 *6.5 primeros proyectos simples, para reforzar el aprendisaje y forzarme a programar en este punto
 le pedi a la ia que me de algunos proyectos para poder empezar a utilizar lo aprendido hasta ahora.
 
-7. Objetos: Representan entidades del mundo real y contienen propiedades y métodos.
+7. Objetos: Representan entidades del mundo real y contienen propiedades y métodos. (check)
 
-8. Arreglos: Colecciones ordenadas de elementos.
+8. Arreglos: Colecciones ordenadas de elementos.(CHECK)
 
-9. DOM (Document Object Model): Representa la estructura de un documento HTML y permite interactuar con él.
+9. DOM (Document Object Model): Representa la estructura de un documento HTML y permite interactuar con él.(CHECK)
 
 10. AJAX (Asynchronous JavaScript and XML): Permite realizar peticiones asíncronas al servidor
  y actualizar partes de la página sin recargarla.

@@ -88,7 +88,8 @@ Luego, crea tres instancias del objeto "Libro" con diferentes valores para cada 
 Finalmente, muestra la información de cada libro en la consola. 
   */
 
-class Libro =  {
+//nota: decidi utilizar una clase por una cuestion de gusto a
+class Libro {
     constructor (titulo, autor, añoDePublicacion, genero){
         this.titulo = titulo;
         this.autor = autor;

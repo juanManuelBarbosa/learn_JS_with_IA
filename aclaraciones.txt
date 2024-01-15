@@ -14,7 +14,8 @@ mas horas de mi tiempo para estudiar.
 
 5-empezare por el lenguaje de Javascript aclarando que ya adquiri conocimientos basicos de HTML y CSS. 
 
-6-mi objetivo es la creacion de aplicaciones/paginas y un portafolio para poder conseguir trabajo de programador.
+6-mi objetivo es la creacion de aplicaciones/paginas para iniciar mi portafolio, a su vez consolidar 
+los conceptos mas basicos del lenguaje de la forma mas dinamica posible.
 
 7- en la medida de lo posible tambien voy a ingresar los promps realizados a la IA como comentarios para que el 
 proyecto sea mas claro.

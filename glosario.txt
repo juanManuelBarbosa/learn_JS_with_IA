@@ -38,17 +38,14 @@ legible por humanos y máquinas.
 complete una tarea.
 
 13. Promesas: Manejan operaciones asíncronas y facilitan el manejo de errores y el encadenamiento
-de operaciones.
+de operaciones. (CHECK)
 
 14. ES6 (ECMAScript 6): La versión más reciente de JavaScript que introduce nuevas características y mejoras
-en el lenguaje.
+en el lenguaje. (CHECK)
 
-15. Frameworks y bibliotecas: Herramientas como React, Angular o Vue.js que facilitan el desarrollo 
-de aplicaciones web.
 
 Recuerda que este glosario es solo una introducción y hay muchos más conceptos y temas que puedes
 explorar a medida que avanzas en tu aprendizaje.
 
 ¡Buena suerte en tu camino para convertirte en un programador profesional de JavaScript!
 
-nota: voy a crear por cada punto un archivo incluyendo minimo 3 ejercicios de cada cosa.
